@@ -1,0 +1,25 @@
+{
+  "name": "cypress_test1",
+  "version": "1.0.0",
+  "description": "Cypress-test1",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glorykarinaa/E2ETesting.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Glory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glorykarinaa/E2ETesting/issues"
+  },
+  "homepage": "https://github.com/glorykarinaa/E2ETesting#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
